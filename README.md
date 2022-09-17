@@ -1,15 +1,19 @@
-#PlantUML Generator
+# PlantUML Generator
 
 PlantUML Generator is a jar application to automatically generate [PlantUML](https://plantuml.com/) diagrams from source code.
 
+Input:
+
 ```
-Input folder
+InputFolder
 |_ A.java
 |_ B.java
 |_ C.java
 |_ D.java
 |_ Main.java
 ```
+
+Output:
 
 ![Example output](example.png)
 
