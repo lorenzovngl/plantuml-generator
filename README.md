@@ -6,7 +6,7 @@ PlantUML Generator is a jar application to automatically generate [PlantUML](htt
 
 ### Usage
 
-1. Download the [PlantUMLGenerator jar](https://github.com/plantuml/plantuml/releases/download/v1.0/PlantUMLGenerator.jar).
+1. Download the [PlantUMLGenerator jar](https://github.com/lorenzovngl/plantuml-generator/releases/download/v1.0/PlantUMLGenerator.jar).
 2. Download the [PlantUML jar](https://github.com/plantuml/plantuml/releases/download/v1.2022.14/plantuml.jar) and place it in the same folder of the previous jar.
 3. Open a terminal and navigate to the location of both jars and choose one of the following commands.
 
