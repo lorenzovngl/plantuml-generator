@@ -1,5 +1,8 @@
 # PlantUMLGenerator
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/lorenzovngl/plantuml-generator?style=flat-square&label=Release)
+![GitHub all downloads](https://img.shields.io/github/downloads/lorenzovngl/plantuml-generator/total?style=flat-square&label=Downloads&logo=github)
+
 PlantUML Generator is a jar application to automatically generate [PlantUML](https://plantuml.com/) class diagrams from source code.
 
 ![Example output](examples/example_package.svg)
